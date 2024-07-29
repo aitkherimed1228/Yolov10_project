@@ -1,0 +1,14 @@
+names:
+- airpods
+- phone
+- wallet
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: detection-necem
+  url: https://universe.roboflow.com/detection-hfuet/detection-necem/dataset/2
+  version: 2
+  workspace: detection-hfuet
+test: /content/detection-2/test/images
+train: /content/detection-2/train/images
+val: /content/detection-2/valid/images
